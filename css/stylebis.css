@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Roboto+Slab:wght@819&display=swap') ;
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Roboto Slab', variable;
+	font-size: 15px;
+	margin: 0px auto;
+	background-color: #FFE6E6;
+	align-items: center;
+	color: #000000;
+}
+
+h1, h2, h3 {
+	font-family: 'Playfair Display';
+	font-weight: lighter;
+	font-size:  35px;
+	color: #000000;
+}
+
+a {
+	text-decoration: none;
+}
